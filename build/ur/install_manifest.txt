@@ -1,0 +1,15 @@
+/home/taha/workspace/Vision-Grasping-Masters-Research/install/ur/share/ament_index/resource_index/package_run_dependencies/ur
+/home/taha/workspace/Vision-Grasping-Masters-Research/install/ur/share/ament_index/resource_index/parent_prefix_path/ur
+/home/taha/workspace/Vision-Grasping-Masters-Research/install/ur/share/ur/environment/ament_prefix_path.sh
+/home/taha/workspace/Vision-Grasping-Masters-Research/install/ur/share/ur/environment/ament_prefix_path.dsv
+/home/taha/workspace/Vision-Grasping-Masters-Research/install/ur/share/ur/environment/path.sh
+/home/taha/workspace/Vision-Grasping-Masters-Research/install/ur/share/ur/environment/path.dsv
+/home/taha/workspace/Vision-Grasping-Masters-Research/install/ur/share/ur/local_setup.bash
+/home/taha/workspace/Vision-Grasping-Masters-Research/install/ur/share/ur/local_setup.sh
+/home/taha/workspace/Vision-Grasping-Masters-Research/install/ur/share/ur/local_setup.zsh
+/home/taha/workspace/Vision-Grasping-Masters-Research/install/ur/share/ur/local_setup.dsv
+/home/taha/workspace/Vision-Grasping-Masters-Research/install/ur/share/ur/package.dsv
+/home/taha/workspace/Vision-Grasping-Masters-Research/install/ur/share/ament_index/resource_index/packages/ur
+/home/taha/workspace/Vision-Grasping-Masters-Research/install/ur/share/ur/cmake/urConfig.cmake
+/home/taha/workspace/Vision-Grasping-Masters-Research/install/ur/share/ur/cmake/urConfig-version.cmake
+/home/taha/workspace/Vision-Grasping-Masters-Research/install/ur/share/ur/package.xml
