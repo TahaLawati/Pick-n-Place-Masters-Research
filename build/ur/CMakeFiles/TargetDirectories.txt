@@ -1,9 +1,0 @@
-/home/taha/workspace/Vision-Grasping-Masters-Research/build/ur/CMakeFiles/uninstall.dir
-/home/taha/workspace/Vision-Grasping-Masters-Research/build/ur/CMakeFiles/ur_uninstall.dir
-/home/taha/workspace/Vision-Grasping-Masters-Research/build/ur/CMakeFiles/test.dir
-/home/taha/workspace/Vision-Grasping-Masters-Research/build/ur/CMakeFiles/edit_cache.dir
-/home/taha/workspace/Vision-Grasping-Masters-Research/build/ur/CMakeFiles/rebuild_cache.dir
-/home/taha/workspace/Vision-Grasping-Masters-Research/build/ur/CMakeFiles/list_install_components.dir
-/home/taha/workspace/Vision-Grasping-Masters-Research/build/ur/CMakeFiles/install.dir
-/home/taha/workspace/Vision-Grasping-Masters-Research/build/ur/CMakeFiles/install/local.dir
-/home/taha/workspace/Vision-Grasping-Masters-Research/build/ur/CMakeFiles/install/strip.dir
