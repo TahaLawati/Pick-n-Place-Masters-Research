@@ -20,11 +20,9 @@ note: I was not using docker as they specify in the repo.
 
 The repo with full files for the Robotiq gripper
 [ROS 2 Robotiq Gripper by PickNikRobotics](https://github.com/PickNikRobotics/ros2_robotiq_gripper/tree/main)
+
+### we have to use these commands as they are not mentioned in the readme.md
 ```bash
 git clone -b humble https://github.com/PickNikRobotics/ros2_robotiq_gripper.git src/robotiq
-```bash
+
 vcs import src --skip-existing --input src/robotiq/ros2_robotiq_gripper-not-released.humble.repos
-
-The second line is needed as it is how serial is added to the cloned repo otherwise we encounter errors.
-
-Most of the work I did in these files to modifying the URDF files, config files, SRDF, and launch files.
